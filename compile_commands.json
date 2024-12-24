@@ -1,0 +1,28 @@
+[
+  {
+    "arguments": [
+      "/sbin/g++",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/rsa.o",
+      "src/rsa.cpp"
+    ],
+    "directory": "/home/luiz/dev/passman",
+    "file": "/home/luiz/dev/passman/src/rsa.cpp",
+    "output": "/home/luiz/dev/passman/build/rsa.o"
+  },
+  {
+    "arguments": [
+      "/sbin/g++",
+      "-Iinclude",
+      "-c",
+      "-o",
+      "build/main.o",
+      "src/main.cpp"
+    ],
+    "directory": "/home/luiz/dev/passman",
+    "file": "/home/luiz/dev/passman/src/main.cpp",
+    "output": "/home/luiz/dev/passman/build/main.o"
+  }
+]
